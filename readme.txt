@@ -22,3 +22,7 @@ This project is a simple HRMS (Human Resource Management System) landing page bu
 
 ## GitHub Repository
 https://github.com/ruchika00/hrms-website
+
+What I did: Built a responsive WordPress landing page with header, hero, 3-column features, footer, and WhatsApp "Get a Quote" button.
+
+Difficulties faced: Aligning features on mobile screens.
